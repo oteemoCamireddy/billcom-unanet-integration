@@ -1,0 +1,46 @@
+{
+  "documents": [
+    {
+      "entity": "Document",
+      "orgId": "00801AYRUHKRMQJ2lz6w",
+      "id": "00h01SEQCXBIOF4sleza",
+      "fileName": "Invoice_138762.pdf",
+      "createdDate": "2020-07-09T14:35:35.000+0000",
+      "updatedDate": "2021-11-06T05:54:36.000+0000",
+      "numUnprocessed": 0,
+      "firstUnprocessed": 0,
+      "numPages": 1,
+      "documentRef": "0du01ZKCUJTWAE4qorap",
+      "parentDocumentId": "00h01YWUCKERXT4slez1",
+      "type": "1",
+      "flagPriority": "-1",
+      "isUserMarkedAsSpam": false,
+      "usersId": "00000000000000000000",
+      "emailFrom": "rgudepu@oteemo.com",
+      "scanStatus": "clean",
+      "fileUrl": "/FileServlet?id=00h01SEQCXBIOF4sleza",
+      "unprocessedPages": 0,
+      "url": "/is/BillImageServlet?entityId=00n01DEMGTOEGN32vdb6",
+      "scanStatusValue": "1",
+      "associatedPages": [
+        1
+      ],
+      "pageNumbers": [
+        1
+      ],
+      "thumbNewUrl": "/is/ImageServlet?id=00h01SEQCXBIOF4sleza&pageNumber=0&w=224&h=0",
+      "thumbType": "image",
+      "pagesInfo": [
+        {
+          "pageNumber": 1,
+          "association": {
+            "type": "Bill",
+            "billId": "00n01DEMGTOEGN32vdb6",
+            "associatedPage": 1
+          }
+        }
+      ]
+    }
+  ],
+  "numPages": 1
+}
